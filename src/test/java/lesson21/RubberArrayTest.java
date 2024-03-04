@@ -3,7 +3,12 @@ package lesson21;
 import extend.RubberArray;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
+/**
+ * AIT-TR, cohort 42.1, Java Basic, hw #21
+ *
+ * @author Boiko Yaroslav
+ * @version 03.03.24
+ */
 public class RubberArrayTest {
 
     @Test
